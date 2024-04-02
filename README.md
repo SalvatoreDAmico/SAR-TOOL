@@ -1,4 +1,5 @@
 Welcome to SAR-TOOL 1.0
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10908353.svg)](https://doi.org/10.5281/zenodo.10908353)
 
 Inside this repository you will find a User Manual that will guide you on the use of the SAR-TOOL software developed in python and available as source code within the same repository and executable on the Windows operating system.
 
@@ -10,3 +11,4 @@ or (at your option) any later version.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even
 the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Affero General Public License for more details: <https://www.gnu.org/licenses/>
+
