@@ -1,4 +1,4 @@
-Welcome to SAR-TOOL
+Welcome to SAR-TOOL 1.0
 
 Inside this repository you will find a User Manual that will guide you on the use of the SAR-TOOL software developed in python and available as source code within the same repository and executable on the Windows operating system.
 
